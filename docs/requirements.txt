@@ -145,7 +145,7 @@ pymdown-extensions==10.16.1
     #   markdown-exec
     #   mkdocs-material
     #   mkdocstrings
-pytest==8.4.2
+pytest==9.0.3
     # via pytest-cov
 pytest-cov==7.0.0
 python-dateutil==2.9.0.post0
@@ -162,7 +162,7 @@ pyyaml==6.0.3
     #   pyyaml-env-tag
 pyyaml-env-tag==1.1
     # via mkdocs
-requests==2.32.5
+requests==2.33.0
     # via
     #   mkdocs-material
     #   sphinx
