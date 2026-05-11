@@ -66,7 +66,7 @@ jinja2==3.1.6
     #   mkdocs-material
     #   mkdocstrings
     #   sphinx
-lxml==6.0.2
+lxml==6.1.0
     # via pymavlink
 markdown==3.9
     # via
@@ -145,7 +145,7 @@ pymdown-extensions==10.16.1
     #   markdown-exec
     #   mkdocs-material
     #   mkdocstrings
-pytest==8.4.2
+pytest==9.0.3
     # via pytest-cov
 pytest-cov==7.0.0
 python-dateutil==2.9.0.post0
@@ -162,7 +162,7 @@ pyyaml==6.0.3
     #   pyyaml-env-tag
 pyyaml-env-tag==1.1
     # via mkdocs
-requests==2.32.5
+requests==2.33.0
     # via
     #   mkdocs-material
     #   sphinx
@@ -194,7 +194,7 @@ typing-extensions==4.15.0
     #   fieldz
     #   griffe-typingdoc
     #   mypy
-urllib3==2.6.3
+urllib3==2.7.0
     # via requests
 watchdog==6.0.0
     # via mkdocs
